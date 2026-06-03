@@ -240,9 +240,7 @@ export default function App() {
         <div className="section-tag">Let's Work Together</div>
         <h2 className="cta-title">Ready to Build Something <span className="gradient-text">Amazing</span>?</h2>
         <p className="cta-desc">Let's create a website that truly represents your brand and drives real results.</p>
-        <a href="https://mallemharon.gumroad.com/l/afisnj/UNLOCK50" className="btn-primary" target="_blank" rel="noopener noreferrer">
-          Get Your Portfolio — 50% Off Today →
-        </a>
+        
       </section>
 
       <footer>
